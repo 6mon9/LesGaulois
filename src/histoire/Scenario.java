@@ -14,7 +14,7 @@ public class Scenario {
 		Gaulois asterix;
 		
 		
-		minus = new Romain ("Minus" , 6);
+		minus = new Romain ("Minus" , -6);
 		asterix = new Gaulois ( " Astérix", 8);
 		
 		
